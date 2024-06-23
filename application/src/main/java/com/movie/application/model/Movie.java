@@ -16,6 +16,4 @@ public class Movie {
 
 	private Integer released;
 
-	private Long votes;
-
 }
